@@ -36,6 +36,7 @@ OmniAuth currently supports the following external providers:
   * Evernote (credit: [szimek](https://github.com/szimek))
   * Facebook (credit: [mbleigh](https://github.com/mbleigh))
   * Foursquare (credit: [mbleigh](https://github.com/mbleigh))
+  * FreshBooks (credit: [joeharris76](http://github.com/joeharris76))
   * GitHub (credit: [mbleigh](https://github.com/mbleigh))
   * Glitch (credit: [harrylove](https://github.com/harrylove))
   * GoodReads (credit: [cristoffer](https://github.com/christoffer))

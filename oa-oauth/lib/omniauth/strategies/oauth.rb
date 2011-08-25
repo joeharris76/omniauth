@@ -1,5 +1,6 @@
 require 'multi_json'
 require 'oauth'
+require 'oauth/signature/plaintext' #Plaintext signature for Freshbooks strategy
 require 'omniauth/oauth'
 
 module OmniAuth

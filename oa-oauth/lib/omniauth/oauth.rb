@@ -10,6 +10,7 @@ module OmniAuth
     autoload :Evernote,           'omniauth/strategies/oauth/evernote'
     autoload :Flattr,             'omniauth/strategies/oauth/flattr'    
     autoload :Flickr,             'omniauth/strategies/oauth/flickr'    
+    autoload :Freshbooks,         'omniauth/strategies/freshbooks'
     autoload :Goodreads,          'omniauth/strategies/oauth/goodreads'
     autoload :Google,             'omniauth/strategies/oauth/google'
     autoload :GoogleHealth,       'omniauth/strategies/oauth/google_health'
