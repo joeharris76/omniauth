@@ -9,6 +9,7 @@ module OmniAuth
           :authorize_url => 'https://launchpad.37signals.com/authorization/new',
           :token_url => 'https://launchpad.37signals.com/authorization/token',
         }
+        options[:type] = 'web_server' #required URL parameter
         super(app, :thirty_seven_signals, client_id, client_secret, client_options, options, &block)
       end
 
